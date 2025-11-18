@@ -72,7 +72,13 @@ source venv/bin/activate
 ```bash
 pip install -r requirements.txt
 ```
+### 📂 Dataset Setup (Required)
 
+The image dataset (`Img/` folder) is hosted on Kaggle due to GitHub's file size limits. You must download it manually to run the project.
+
+1. **Download:** [👉 Click here to download the dataset from Kaggle](https://www.kaggle.com/datasets/cankeiliolu/handwritten-english-characters)
+
+2. **Extract:** Unzip the downloaded file. Move the `english.csv` file and the `Img` folder into the `data/` directory of this project.
 Note: Ensure english.csv and the Img folder are placed inside the data/ directory before running the scripts.
 
 ## ▶️ Usage
