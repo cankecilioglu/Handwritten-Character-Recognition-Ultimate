@@ -1,9 +1,10 @@
 # Handwritten Character Recognition with XGBoost & HOG
 
-![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-v2.0+-green?logo=xgboost&logoColor=white)
-![Platform](<https://img.shields.io/badge/Platform-Linux%20(AMD%20Ryzen)-orange>)
-![Status](https://img.shields.io/badge/Status-Completed-success)
+![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)
+![XGBoost](https://img.shields.io/badge/Library-XGBoost_v2.0+-green)
+![Platform](https://img.shields.io/badge/Platform-Linux_(AMD_Ryzen)-orange?logo=linux&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Work_in_Progress-yellow)
+![License](https://img.shields.io/badge/License-MIT-blue)
 
 ## 📖 Overview
 
