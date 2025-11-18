@@ -1,9 +1,10 @@
 # Handwritten Character Recognition with XGBoost & HOG
 
-![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-v2.0+-green?logo=xgboost&logoColor=white)
-![Platform](<https://img.shields.io/badge/Platform-Linux%20(AMD%20Ryzen)-orange>)
-![Status](https://img.shields.io/badge/Status-Completed-success)
+![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)
+![XGBoost](https://img.shields.io/badge/Library-XGBoost_v2.0+-green)
+![Platform](https://img.shields.io/badge/Platform-Linux_(AMD_Ryzen)-orange?logo=linux&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Work_in_Progress-yellow)
+![License](https://img.shields.io/badge/License-MIT-blue)
 
 ## 📖 Overview
 
@@ -71,7 +72,13 @@ source venv/bin/activate
 ```bash
 pip install -r requirements.txt
 ```
+### 📂 Dataset Setup (Required)
 
+The image dataset (`Img/` folder) is hosted on Kaggle due to GitHub's file size limits. You must download it manually to run the project.
+
+1. **Download:** [👉 Click here to download the dataset from Kaggle](https://www.kaggle.com/datasets/cankeiliolu/handwritten-english-characters)
+
+2. **Extract:** Unzip the downloaded file. Move the `english.csv` file and the `Img` folder into the `data/` directory of this project.
 Note: Ensure english.csv and the Img folder are placed inside the data/ directory before running the scripts.
 
 ## ▶️ Usage
