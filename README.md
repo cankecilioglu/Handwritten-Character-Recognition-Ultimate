@@ -51,7 +51,7 @@ Follow these steps to set up the project on a local Linux machine. Tested on Pyt
 **1. Clone the Repository**
 
 ```bash
-git clone [https://github.com/cankecilioglu/Handwritten-Character-Recognition-XGBoost.git](https://github.com/cankecilioglu/Handwritten-Character-Recognition-XGBoost.git)
+git clone https://github.com/cankecilioglu/Handwritten-Character-Recognition-XGBoost.git
 cd Handwritten-Character-Recognition-XGBoost
 ```
 
