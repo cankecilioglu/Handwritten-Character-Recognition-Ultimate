@@ -196,7 +196,7 @@ To train the final (best performing) model, run the following commands:
 source venv/bin/activate
 
 # Run the final training script
-python src/exp2_filtered_v3.py
+python src/deep_learning/train.py
 ```
 
 ## 📄 Academic Paper
